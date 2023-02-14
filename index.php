@@ -458,32 +458,32 @@ if(isset($_POST['send'])){
 
       <div class="swiper-wrapper">
          <div class="swiper-slide box">
-            <img src="images/pic-1.png" alt="">
+            <img src="images/userp.png" alt="">
             <h3>Jokast kassa</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
-            <img src="images/pic-2.png" alt="">
+            <img src="images/userp.png" alt="">
             <h3>Jokast kassa</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
-            <img src="images/pic-3.png" alt="">
+            <img src="images/userp.png" alt="">
             <h3>Jokast kassa</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
-            <img src="images/pic-4.png" alt="">
+            <img src="images/userp.png" alt="">
             <h3>Jokast kassa</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
-            <img src="images/pic-5.png" alt="">
+            <img src="images/userp.png" alt="">
             <h3>Jokast kassa</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
          <div class="swiper-slide box">
-            <img src="images/pic-6.png" alt="">
+            <img src="images/userp.png" alt="">
             <h3>Jokast kassa</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
          </div>
